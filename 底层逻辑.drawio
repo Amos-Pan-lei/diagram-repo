@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-11-01T03:41:05.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="n_38ctnMy1WLTp0E7fgW" version="22.0.8" type="github">
+  <diagram id="5jEfxVwqZtwkkLB00oML" name="Page-1">
+    <mxGraphModel dx="1849" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zfoCIFpN8vsJhcAPJhjp-3" value="底层公理，原理，法则" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="270" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zfoCIFpN8vsJhcAPJhjp-4" value="衍生定理，常理，规则，规律" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="40" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zfoCIFpN8vsJhcAPJhjp-5" value="操作方式，流程，方法，行为表现" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="-210" width="592.5" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
