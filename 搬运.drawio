@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T09:20:29.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.2.8" etag="gxjrb3UnvuJnjKAUYMR_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T09:23:49.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NUHZUt121kQjNOyqS3Wp" version="24.2.8" type="github">
   <diagram name="第 1 页" id="gKxBTXRnxPEfnF-mkXzo">
-    <mxGraphModel>
+    <mxGraphModel dx="2224" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-2" value="tiktok" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_app0-128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-3" value="抖音" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2421/512/TikTok-128.png" vertex="1" parent="1">
+          <mxGeometry x="-140" y="210" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.download_distribution;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="400" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-5" value="原视频" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.video" vertex="1" parent="1">
+          <mxGeometry x="-129.9" y="510" width="107.8" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-6" value="转换加工" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-7" value="转换后的视频" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.video" vertex="1" parent="1">
+          <mxGeometry x="550.1" y="520" width="107.8" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DS_nnCU_m6ZL4kmz9mKp-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cloud-upload-outline-128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
