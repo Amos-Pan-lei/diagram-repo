@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-09T17:07:49.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="G0cRn_ks3VY6oknICkYQ" version="24.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-09-09T17:08:52.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="GgVKqijMCIMFH2LLVZi4" version="24.6.3" type="github" pages="4">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,9 @@
         <mxCell id="k72ShCJNPWPTYYfwveIk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k72ShCJNPWPTYYfwveIk-9" target="k72ShCJNPWPTYYfwveIk-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2A6l9kM1xLO7CppK2SdV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k72ShCJNPWPTYYfwveIk-9" target="2A6l9kM1xLO7CppK2SdV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-9" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-228" y="94" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="290" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-13" value="账单录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-458" y="212" width="95" height="181" as="geometry" />
+          <mxGeometry x="-630" y="212" width="95" height="181" as="geometry" />
         </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-14" value="&lt;div class=&quot;lake-content&quot;&gt;图片上传&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-338" y="212" width="95" height="181" as="geometry" />
@@ -53,13 +56,16 @@
           <mxGeometry x="-87" y="212" width="95" height="181" as="geometry" />
         </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-17" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;支出事项管理&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37" y="212" width="95" height="181" as="geometry" />
+          <mxGeometry x="60" y="212" width="95" height="181" as="geometry" />
         </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;gpt账号管理模块&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="207" width="95" height="181" as="geometry" />
         </mxCell>
         <mxCell id="k72ShCJNPWPTYYfwveIk-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;gpt账号管理模块&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="207" width="95" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="2A6l9kM1xLO7CppK2SdV-1" value="数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="212" width="95" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
