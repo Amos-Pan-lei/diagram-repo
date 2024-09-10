@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-09T17:09:14.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="M59NCW854B__UpqX1xxq" version="24.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-09-10T19:26:54.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="FH1m6lmYWbOKd4qazJPo" version="24.6.3" type="github" pages="5">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,6 +438,65 @@
         </mxCell>
         <mxCell id="wRnytyM9bnB2fyKdIqF7-21" value="AI 交互模块" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="721" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6y2-3gy3OWtHWnKLq4Yx" name="用例图">
+    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-1" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="342" y="20" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-2" value="账单系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="122" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-3" value="图片上传模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="149" y="122" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-4" value="分类管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="122" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-5" value="对象管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="472" y="122" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-6" value="事项管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="633" y="122" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-7" value="录入账单" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-1" target="Osbx_EENR6xcQlzmfpFu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-8" value="上传图片" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-1" target="Osbx_EENR6xcQlzmfpFu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-9" value="修改支出分类" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-1" target="Osbx_EENR6xcQlzmfpFu-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-10" value="修改付款对象" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-1" target="Osbx_EENR6xcQlzmfpFu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-11" value="修改支出事项" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-1" target="Osbx_EENR6xcQlzmfpFu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="88" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
