@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-10T19:29:49.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="-PBbwwu-hXChLkeeD92N" version="24.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-09-10T19:32:02.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="ZfNGeXUmbbeHVivE2dfz" version="24.6.3" type="github" pages="5">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,6 +496,125 @@
             <Array as="points">
               <mxPoint x="688" y="88" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-12" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="268" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-13" value="账单模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="370" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-14" value="数据库" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="473" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-15" value="账单记录模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="370" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-16" value="输入账单信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-12" target="Osbx_EENR6xcQlzmfpFu-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-17" value="保存" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-13" target="Osbx_EENR6xcQlzmfpFu-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-18" value="查看历史账单" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-12" target="Osbx_EENR6xcQlzmfpFu-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="366" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-19" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="267.5" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-20" value="图片上传模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="956" y="369.5" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-21" value="文件存储系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="956" y="472.5" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-22" value="账单详情" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="369.5" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-23" value="上传图片" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-19" target="Osbx_EENR6xcQlzmfpFu-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1012" y="335.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-24" value="保存" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-20" target="Osbx_EENR6xcQlzmfpFu-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-25" value="查看图片" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-19" target="Osbx_EENR6xcQlzmfpFu-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="335.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-26" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="578" y="263" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-27" value="分类管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="546" y="365" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-28" value="账单信息" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="562" y="468" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-29" value="选择分类" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-26" target="Osbx_EENR6xcQlzmfpFu-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-30" value="修改分类" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-27" target="Osbx_EENR6xcQlzmfpFu-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-31" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="784" y="263" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-32" value="对象管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="752" y="365" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-33" value="账单信息" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="768" y="468" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-34" value="选择付款对象" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-31" target="Osbx_EENR6xcQlzmfpFu-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-35" value="修改对象" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-32" target="Osbx_EENR6xcQlzmfpFu-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-36" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="684" y="569" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-37" value="事项管理模块" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="652" y="671" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-38" value="账单信息" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="774" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-39" value="选择支出事项" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-36" target="Osbx_EENR6xcQlzmfpFu-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Osbx_EENR6xcQlzmfpFu-40" value="修改支出事项" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Osbx_EENR6xcQlzmfpFu-37" target="Osbx_EENR6xcQlzmfpFu-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
