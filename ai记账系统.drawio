@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-10T19:26:54.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="FH1m6lmYWbOKd4qazJPo" version="24.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-09-10T19:29:49.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="-PBbwwu-hXChLkeeD92N" version="24.6.3" type="github" pages="5">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6y2-3gy3OWtHWnKLq4Yx" name="用例图">
-    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
