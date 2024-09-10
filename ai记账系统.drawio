@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-10T20:20:32.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="f9fz63ESm2evE5sgdICZ" version="24.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-09-10T20:48:37.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="8zlY1cZ1q1B6QMru2KK1" version="24.6.3" type="github" pages="6">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6y2-3gy3OWtHWnKLq4Yx" name="用例图">
-    <mxGraphModel dx="1621" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,6 +620,47 @@
         </mxCell>
         <mxCell id="Osbx_EENR6xcQlzmfpFu-106" value="账单数据分析" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-166" y="1972.5" width="86" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pocKUUlwkIkIMbViMzlE" name="流程图">
+    <mxGraphModel dx="1221" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vAXbhLXocgyoxHzrr7ku-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="y-aoPman6iiXDA5wEXyq-1" target="y-aoPman6iiXDA5wEXyq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAXbhLXocgyoxHzrr7ku-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="y-aoPman6iiXDA5wEXyq-1" target="y-aoPman6iiXDA5wEXyq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAXbhLXocgyoxHzrr7ku-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="y-aoPman6iiXDA5wEXyq-1" target="y-aoPman6iiXDA5wEXyq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAXbhLXocgyoxHzrr7ku-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="y-aoPman6iiXDA5wEXyq-1" target="y-aoPman6iiXDA5wEXyq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAXbhLXocgyoxHzrr7ku-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="y-aoPman6iiXDA5wEXyq-1" target="y-aoPman6iiXDA5wEXyq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-1" value="AI 个人记账系统" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="3" width="165" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-2" value="用户模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="181.5" y="125.5" width="22" height="130.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-3" value="信息维护模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="129" y="125.5" width="23" height="129.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-4" value="账单管理模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="231" y="125.5" width="23" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-5" value="AI交互模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="281" y="125.5" width="24" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="y-aoPman6iiXDA5wEXyq-6" value="账单数据分析模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="82" y="125.5" width="23" height="130.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
