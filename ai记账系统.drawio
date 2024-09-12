@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="8">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -894,6 +894,88 @@
         </mxCell>
         <mxCell id="q1XDM36op6DcUbpo3WPS-41" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontStyle=1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="q1XDM36op6DcUbpo3WPS-32" target="q1XDM36op6DcUbpo3WPS-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xcAiBl53Wdz96wsWZSEL" name="技术架构设计图">
+    <mxGraphModel dx="1221" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="30aK8oJ8LX4s6fALx5WL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-70" width="693" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="MVyHUtEOZn1yNtN-POBn-2" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;数据库层与外部服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=-1;spacingBottom=-22;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="435" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-1" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="247" y="316" width="613" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="MVyHUtEOZn1yNtN-POBn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="1" source="plqTv-48sDFk9xReuWIp-3" target="plqTv-48sDFk9xReuWIp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-3" value="MyBatis-Plus" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="279" y="338" width="105" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-4" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="247" y="136" width="613" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-5" value="JWT" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="413" y="176" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-6" value="Spring Boot" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="283" y="176" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-7" value="业务逻辑处理" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="176" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-8" value="AI服务调用" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="675" y="176" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MVyHUtEOZn1yNtN-POBn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="1" source="plqTv-48sDFk9xReuWIp-8" target="MVyHUtEOZn1yNtN-POBn-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748" y="281" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-11" value="表现层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="247" y="-31" width="609" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-12" value="Vant UI" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="487.5" width="67" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-13" value="Vue.js" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="356.5" width="60" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-14" value="Echarts" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="612.5" width="68" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="plqTv-48sDFk9xReuWIp-26" value="MySQL" style="shape=datastore;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="512.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q50i-gI0MWBDBYbHc8K2-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;strokeWidth=2;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="616" y="130" as="sourcePoint" />
+            <mxPoint x="616" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVyHUtEOZn1yNtN-POBn-4" value="GPT 模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="552" y="512.5" width="96" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MVyHUtEOZn1yNtN-POBn-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;strokeWidth=2;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="607" y="307" as="sourcePoint" />
+            <mxPoint x="607" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30aK8oJ8LX4s6fALx5WL-2" value="&lt;b&gt;浏览器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-170" width="704.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQXSuLSs5IBEUgtEbVm0-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="-120" as="sourcePoint" />
+            <mxPoint x="553" y="-80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
