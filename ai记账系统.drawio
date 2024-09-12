@@ -909,7 +909,7 @@
         <mxCell id="MVyHUtEOZn1yNtN-POBn-2" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;数据库层与外部服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=-1;spacingBottom=-22;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="435" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="plqTv-48sDFk9xReuWIp-1" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="plqTv-48sDFk9xReuWIp-1" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="247" y="316" width="613" height="74" as="geometry" />
         </mxCell>
         <mxCell id="MVyHUtEOZn1yNtN-POBn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="1" source="plqTv-48sDFk9xReuWIp-3" target="plqTv-48sDFk9xReuWIp-26">
@@ -918,7 +918,7 @@
         <mxCell id="plqTv-48sDFk9xReuWIp-3" value="MyBatis-Plus" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="279" y="338" width="105" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="plqTv-48sDFk9xReuWIp-4" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="plqTv-48sDFk9xReuWIp-4" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="247" y="136" width="613" height="94" as="geometry" />
         </mxCell>
         <mxCell id="plqTv-48sDFk9xReuWIp-5" value="JWT" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -938,7 +938,7 @@
             <mxPoint x="748" y="281" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="plqTv-48sDFk9xReuWIp-11" value="表现层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="plqTv-48sDFk9xReuWIp-11" value="表现层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="247" y="-31" width="609" height="84" as="geometry" />
         </mxCell>
         <mxCell id="plqTv-48sDFk9xReuWIp-12" value="Vant UI" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
