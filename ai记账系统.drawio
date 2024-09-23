@@ -81,7 +81,7 @@
         <mxCell id="aLaAh5bte2F1In5p6Arb-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="390" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aLaAh5bte2F1In5p6Arb-2" value="收款方" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aLaAh5bte2F1In5p6Arb-2" value="收款方" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-100" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aLaAh5bte2F1In5p6Arb-3" value="付款分类" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
