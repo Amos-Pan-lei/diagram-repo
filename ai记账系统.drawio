@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -890,34 +890,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-32" value="个人记账系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-32" value="个人记账系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="61" y="348" width="547" height="294" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-15" value="用户模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-15" value="用户模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="113" y="408" width="60" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-16" value="信息维护模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-16" value="信息维护模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="181" y="408" width="142" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-17" value="账单管理模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-17" value="账单管理模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="492" y="401" width="77" height="107.75" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-18" value="AI交互模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-18" value="AI交互模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="186" y="568" width="297" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-19" value="账单数据分析模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-19" value="账单数据分析模块" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="181" y="465" width="143" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-25" value="更新账单信息" style="startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=-0.022;entryY=0.192;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-16" target="vUMXi_Gi7PAxQTSkBmV1-17">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-25" value="更新账单信息" style="startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=-0.022;entryY=0.192;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-16" target="vUMXi_Gi7PAxQTSkBmV1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-26" value="账单数据" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.699;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-17" target="vUMXi_Gi7PAxQTSkBmV1-18">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-26" value="账单数据" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.699;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-17" target="vUMXi_Gi7PAxQTSkBmV1-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-27" value="结构化账单" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.75;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-18" target="vUMXi_Gi7PAxQTSkBmV1-17">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-27" value="结构化账单" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.75;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-18" target="vUMXi_Gi7PAxQTSkBmV1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-28" value="账单查询" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-17" target="vUMXi_Gi7PAxQTSkBmV1-19">
+        <mxCell id="vUMXi_Gi7PAxQTSkBmV1-28" value="账单查询" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="vUMXi_Gi7PAxQTSkBmV1-17" target="vUMXi_Gi7PAxQTSkBmV1-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
