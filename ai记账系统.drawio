@@ -952,9 +952,6 @@
         <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-13" value="账单模块" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="536.6600000000001" y="425" width="146.67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-6" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;fillColor=#2072B8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="830" y="460" width="35" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="BRJoD5z_iGrP5ekAhDfw-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="47.5" height="50" as="geometry" />
         </mxCell>
@@ -964,8 +961,8 @@
         <mxCell id="y0ZkMi_v5BqH1dn4nEdE-1" value="数据展示" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dashboard_Hub.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="565" width="128.46" height="98.23" as="geometry" />
         </mxCell>
-        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-receipt-128.png;imageBorder=none;imageBackground=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570.0000000000001" y="500" width="80" height="80" as="geometry" />
+        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-2" value="账单" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-receipt-128.png;imageBorder=none;imageBackground=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570.0000000000001" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
