@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="11">
   <diagram name="系统功能模块图" id="47HzZC4zaf_FDOMyMsvs">
     <mxGraphModel dx="2048" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -924,46 +924,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_T9qnMCb5eR2sSH7uS2b" name="第 10 页">
-    <mxGraphModel dx="1397" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="543.33" y="170" width="133.33" height="80" as="geometry" />
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="453.34000000000003" y="185" width="133.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="1">
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="250" as="sourcePoint" />
-            <mxPoint x="500" y="210" as="targetPoint" />
+            <mxPoint x="265" y="275" as="sourcePoint" />
+            <mxPoint x="395" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-4" value="今天中午吃了一顿麦当劳50块，晚上吃了一份猪脚饭15块" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="130" height="90" as="geometry" />
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-4" value="今天中午吃了一顿麦当劳50块，晚上吃了一份猪脚饭15块" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="125" y="170" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json_2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500.00000000000006" y="330" width="80.4" height="25.200000000000003" as="geometry" />
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-8" value="格式化数据" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json_2;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="487.00000000000006" y="340" width="80.4" height="25.200000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="1">
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="280" as="sourcePoint" />
+            <mxPoint x="562" y="273" as="sourcePoint" />
             <mxPoint x="610" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-13" value="账单模块" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="536.6600000000001" y="425" width="146.67" height="60" as="geometry" />
+        <mxCell id="Rtv3Ad7vUJ6BpA7mPU5K-13" value="账单模块" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540.0000000000001" y="420" width="146.67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BRJoD5z_iGrP5ekAhDfw-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="47.5" height="50" as="geometry" />
+        <mxCell id="BRJoD5z_iGrP5ekAhDfw-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="135" y="260" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BRJoD5z_iGrP5ekAhDfw-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;direction=west;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="565" width="100" height="100" as="geometry" />
+        <mxCell id="BRJoD5z_iGrP5ekAhDfw-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;direction=west;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="359" y="533" width="179" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-1" value="数据展示" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dashboard_Hub.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="310" y="565" width="128.46" height="98.23" as="geometry" />
+        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-1" value="数据展示" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dashboard_Hub.svg;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="182.5" y="489" width="128.46" height="98.23" as="geometry" />
         </mxCell>
-        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-2" value="账单" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-receipt-128.png;imageBorder=none;imageBackground=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570.0000000000001" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="y0ZkMi_v5BqH1dn4nEdE-2" value="账单" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-receipt-128.png;imageBorder=none;imageBackground=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="562.0000000000001" y="484" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Iki1uRygy67tayoElKKj" name="第 11 页">
+    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
