@@ -421,6 +421,24 @@
         <mxCell id="RqvMUEQq_hhzLFwtVDF8-32" value="硬件层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="1161" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-1" value="微操作" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.action;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480.56" width="22" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-3" value="微操作" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.action;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="522.2" width="22" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-4" value="微操作" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.action;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="514.56" width="22" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-13" target="pCy61yGgBeyJIKaFVkAT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-13" target="pCy61yGgBeyJIKaFVkAT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCy61yGgBeyJIKaFVkAT-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-13" target="pCy61yGgBeyJIKaFVkAT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
