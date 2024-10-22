@@ -415,6 +415,12 @@
         <mxCell id="RqvMUEQq_hhzLFwtVDF8-30" value="" style="shape=stencil(lVfZbttADPwavxLc5V58TtP/CBCnNurGgeP0+PtSNeSaVDRI3mxpR7yGQ+5G7l53Dy/bTebX8+n4fftr/3jebeTLJuf982572p/t10buN3L3dDxtv52Ob8+Pl/8vD9PJ6deP48/pC78vOK3U64TK/OfyJGXK7d+TrxfAYf98Axj2unhAo1bXAT1T7w6QmbKsA1qlJB4gxLoOqIVa9oBONa0Dir32FoSpAwvSqXgLUqiCLOVB2adVBhVgwXKi7AAlUevrgCRUfAzFXBrAQqIeLMj85P2gmao6QE1UgEvmcffUaAyzVDNJAHTiAqiRqTQH6IkGCLob1XwMvVIBQQ8j33CAIZAaw6jhY7BPVNAPY5B6l+wTmgFAqXmAMjWQJQMUTz6V2ck1l8RTQxsxaKDRSHwddFBCaRUaPktqToLCDY5ZSszEwEQ3D3I00UBejQlBBSwIAfzuMrt8kyZB7DOt5FiIgSwYm5MHJCh9ZiEUYqolENd+ZfMNXQeyUEk9mUYhRmkdUY1tZEB+J6ocAUiYzAHxWTJ6oToYXfsiBhS0JbH6mWU9ysiCzkJ3BSh11EHGzUC+TBVlaVAP5Kszu9aEiYNsdCjflpMeXFJKKIZE2iJAEfmUeAEYQJh6iwPCWhQ2kAHqZwA2cGRRhwHqUHWh9wMCisb9Z+IvmIq2bIR+6J0GSKsN6lCHqcuBS9k2hTB3FWqrLRthFbDJLihL87JzXR3yLCPvnr9K+3U3sTkMiMGxe2wfy4CqjdQrhi1oCr6fShyh9omK9jeTet+etrQiC3mhGLagCUiR6LyXXyfimGVtjXjVu5QqLJrVdAQLCe5vzXbaMK4ogfPGY/WtUCFPbfgl/32GnWOt22o4j2itZb6IfPB8ja3McGEwwU3+fIJTZNo/AuvgVmXqGW8Z2B+N64WNQdT2vOjLBhm0NNChvk8BBH2f22g1QeHyybOUrVZgSWnQNJ++D38AYD/+X7+f9ofD5fZ++z5e1+3R5aov938B);lineShape=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="503.7672907499318" y="676.2230694486684" width="32.35830098999486" height="33.428403032143706" as="geometry" />
         </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-31" value="用户层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1161" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-32" value="硬件层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="1161" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
