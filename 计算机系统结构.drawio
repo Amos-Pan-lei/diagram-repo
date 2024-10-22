@@ -1,0 +1,143 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="第 1 页" id="1MIj7HOhZhAyQuEYsQym">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="计算机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="353" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="硬件" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="203" y="304" width="63" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="软件" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="204" y="403" width="62" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="中央处理器" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="365" y="8" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="存储器" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="381" y="205" width="78" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="输入/输出设备" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="353" y="304" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="总线" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="389" y="600" width="63" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="运算单元" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="575" y="8" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="控制单元" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="575" y="107" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="内存" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="591" y="205" width="62" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="键盘" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="591" y="304" width="63" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="显示器" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="583" y="403" width="78" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="地址总线" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="574" y="501" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="数据总线" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="574" y="600" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="控制总线" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="575" y="699" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.01;entryX=0.01;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=-0.01;entryY=0.49;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0;entryY=0.49;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="6" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="7" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0;entryY=0.49;" edge="1" parent="1" source="7" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="8" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="8" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0.99;entryX=0;entryY=0.49;" edge="1" parent="1" source="8" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
