@@ -191,7 +191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dB_KrxIEE0aRw9CimLiI" name="计算机执行计算流程">
-    <mxGraphModel dx="2048" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,14 +323,27 @@
         <mxCell id="MxuYKG3AiM9Fl3Y7Ny40-2" value="微观层面" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="587" width="120" height="40" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7XZq_1fwv5evVD7kf65w" name="多个计算机">
-    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="450" y="627" width="78" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="274.2" y="484" width="66.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="373.2" y="373.5" width="66.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="294.2" y="373.5" width="66.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server_cluster;" vertex="1" parent="1">
+          <mxGeometry x="372" y="143.5" width="84" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="275" y="133.5" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server_cluster;" vertex="1" parent="1">
+          <mxGeometry x="301" y="266.75" width="84" height="46.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -526,6 +539,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7XZq_1fwv5evVD7kf65w" name="多个计算机">
+    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
