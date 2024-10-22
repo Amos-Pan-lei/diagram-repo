@@ -191,7 +191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dB_KrxIEE0aRw9CimLiI" name="计算机执行计算流程">
-    <mxGraphModel dx="2048" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,10 +321,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MxuYKG3AiM9Fl3Y7Ny40-2" value="微观层面" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="400" y="587" width="120" height="40" as="geometry" />
+          <mxGeometry x="372" y="587" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="45aMCSqw6YhQNwgDM3ci-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
-          <mxGeometry x="450" y="627" width="78" height="73.5" as="geometry" />
+        <mxCell id="45aMCSqw6YhQNwgDM3ci-1" value="CPU" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="632.25" width="78" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="45aMCSqw6YhQNwgDM3ci-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu_socket;" vertex="1" parent="1">
           <mxGeometry x="274.2" y="484" width="66.8" height="70" as="geometry" />
@@ -343,6 +343,68 @@
         </mxCell>
         <mxCell id="45aMCSqw6YhQNwgDM3ci-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server_cluster;" vertex="1" parent="1">
           <mxGeometry x="301" y="266.75" width="84" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-1" target="RqvMUEQq_hhzLFwtVDF8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-1" value="程序进程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1121" y="434.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1190.666748046875" as="sourcePoint" />
+            <mxPoint x="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="1202.336748046875" as="sourcePoint" />
+            <mxPoint x="990" y="11.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-4" value="操作系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="1161" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-5" target="RqvMUEQq_hhzLFwtVDF8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-5" value="程序进程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1121" y="533.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-6" value="作业任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-8" value="作业任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="484" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-9" target="RqvMUEQq_hhzLFwtVDF8-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="490" />
+              <mxPoint x="594" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-9" target="RqvMUEQq_hhzLFwtVDF8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-9" target="RqvMUEQq_hhzLFwtVDF8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-9" value="作业任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="567" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RqvMUEQq_hhzLFwtVDF8-1" target="RqvMUEQq_hhzLFwtVDF8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-13" value="指令" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" vertex="1" parent="1">
+          <mxGeometry x="550" y="495.25" width="28.000000000000004" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-14" value="指令" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" vertex="1" parent="1">
+          <mxGeometry x="550" y="553.25" width="28.000000000000004" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvMUEQq_hhzLFwtVDF8-15" value="指令" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" vertex="1" parent="1">
+          <mxGeometry x="550" y="604.25" width="28.000000000000004" height="28.000000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
