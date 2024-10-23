@@ -692,7 +692,7 @@
           <mxGeometry x="441" y="1427" width="216" height="34" as="geometry" />
         </mxCell>
         <mxCell id="P8N5XRvevwwfG8hEr9Jn-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#573F00;strokeColor=#573F00;gradientColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="424" y="1427" width="43" height="40" as="geometry" />
+          <mxGeometry x="441" y="1420" width="43" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
